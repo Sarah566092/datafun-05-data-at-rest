@@ -8,3 +8,7 @@
 ## Titanic Passengers Project
 
 Use the text book to practice using data at rest
+
+## SQL Project
+
+Practice Queries in SQL
